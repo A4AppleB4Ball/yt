@@ -1,0 +1,30 @@
+{
+  "script": "scripts/script_01_markets_dont_move_on_news_v2_global.md",
+  "segments": 10,
+  "scenes": [
+    "output/scenes/scene_01_chart.png",
+    "output/scenes/scene_02_chart.png",
+    "output/scenes/scene_03_diagram.png",
+    "output/scenes/scene_04_chart.png",
+    "output/scenes/scene_05_chart.png",
+    "output/scenes/scene_06_chart.png",
+    "output/scenes/scene_07_diagram.png",
+    "output/scenes/scene_08_text.png",
+    "output/scenes/scene_09_chart.png",
+    "output/scenes/scene_10_text.png"
+  ],
+  "audio": [
+    "output/audio/voiceover_segment_01.aiff",
+    "output/audio/voiceover_segment_02.aiff",
+    "output/audio/voiceover_segment_03.aiff",
+    "output/audio/voiceover_segment_04.aiff",
+    "output/audio/voiceover_segment_05.aiff",
+    "output/audio/voiceover_segment_06.aiff",
+    "output/audio/voiceover_segment_07.aiff",
+    "output/audio/voiceover_segment_08.aiff",
+    "output/audio/voiceover_segment_09.aiff",
+    "output/audio/voiceover_segment_10.aiff"
+  ],
+  "video": null,
+  "output_dir": "output"
+}

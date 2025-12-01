@@ -1,0 +1,21 @@
+# Video Generation Pipeline Dependencies
+
+# Core video/audio processing
+moviepy>=1.0.3
+pillow>=10.0.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+
+# Text-to-speech
+elevenlabs>=0.2.26
+pydub>=0.25.1
+
+# Script parsing and utilities
+pyyaml>=6.0
+python-dotenv>=1.0.0
+
+# HTTP client (already used in llm_client)
+requests>=2.31.0
+
+# Optional: PDF generation for scripts
+reportlab>=4.0.0

@@ -1,0 +1,80 @@
+{
+  "version": "1.0",
+  "resolution": [
+    640,
+    360
+  ],
+  "fps": 30,
+  "scenes": [
+    {
+      "title": "HOOK - THE PATTERN INTERRUPT\n\n```\n[SCREEN]: Bitcoin chart, July 18, 2025 - price around $120k\n(VOICEOVER):\nJuly 18th, 2025.\n\nThe U.S. President signs the GENIUS Act into law.\nFirst comprehensive federal stablecoin regulation.\nThe crypto industry calls it \"historic.\"\n\"Legitimacy for digital assets.\"\n\nBitcoin rallies to $125,000.\n\nAnd then it collapses.\n\n[SCREEN]: Chart shows BTC dropping to $80,000 over next 4 months\n(VOICEOVER):\n36% drop in less than four months.\n\nYou think the news drove the rally.\nIt didn't.\n\nThe news marked the top.\n\n{EDITING: Quick cuts between headlines and chart, dramatic but not sensational}\n```\n\n---",
+      "image": "output/scenes/scene_01_chart.png",
+      "audio": "output/audio/voiceover_segment_01.aiff",
+      "duration": 20,
+      "transition": "fade"
+    },
+    {
+      "title": "THE REVEAL\n\n```\n[SCREEN]: Bitcoin chart, but zoom out to May-June 2025\n(VOICEOVER):\nBecause if you zoom out just eight weeks...\n\n[SCREEN]: Highlight on-chain data, institutional flows, futures positioning\n(VOICEOVER):\nInstitutional inflows had already peaked in early June.\nFutures open interest was at all-time highs.\nFunding rates were screaming euphoria.\n\nThe top was already in.\nThe smart money had already positioned.\n\nThe GENIUS Act wasn't the cause.\nIt was the excuse retail needed to buy the top.\n\n[SCREEN]: Return to the drop\n(VOICEOVER):\nAnd when \"historic regulation\" became the headline...\nThat's when distribution started.\n\n{EDITING: Layer data points as mentioned, clean overlays}\n```\n\n---",
+      "image": "output/scenes/scene_02_chart.png",
+      "audio": "output/audio/voiceover_segment_02.aiff",
+      "duration": 30,
+      "transition": "fade"
+    },
+    {
+      "title": "EMPATHY & SETUP\n\n```\n[SCREEN]: Split screen - retail news feed vs institutional dashboard\n(VOICEOVER):\nI know what you're doing.\n\nYou're watching headlines.\nYou're reading analysts' tweets.\nYou're in Discord servers tracking \"catalysts.\"\n\nAnd you think you're early.\n\nBut here's the problem:\nYou're watching narratives.\nThey're watching flows.\n\nAnd by the time the narrative makes sense to you...\nThe trade is over.\n\n[SCREEN]: Show typical retail setup - news feed, Reddit, Twitter\nThen show institutional terminal - flow data, positioning, liquidity metrics\n(VOICEOVER):\nYou're not trading the market.\nYou're trading the story about the market.\n\nAnd the story is always late.\n\n{EDITING: Contrast retail chaos with institutional clarity}\n```\n\n---",
+      "image": "output/scenes/scene_03_diagram.png",
+      "audio": "output/audio/voiceover_segment_03.aiff",
+      "duration": 30,
+      "transition": "fade"
+    },
+    {
+      "title": "FRAMEWORK INTRO\n\n```\n[SCREEN]: Simple diagram - The Retail Model vs The Reality\n(VOICEOVER):\nThis is how most people think markets work:\n[SCREEN]: Linear flow: News \u2192 Reaction \u2192 Price Move\n\nNews happens. Market reacts. Done.\n\nClean. Logical. Wrong.\n\nThis is how markets actually work:\n[SCREEN]: Circular flow: Liquidity \u2192 Flows \u2192 Positioning \u2192 Regime \u2192 Narrative \u2192 Retail\n\nLiquidity conditions change.\nSmart money repositions quietly.\nA regime shift happens in silence.\nThen a narrative gets created.\nThe news \"confirms\" it.\nAnd retail shows up to provide exit liquidity.\n\n[SCREEN]: Highlight \"Retail\" at the end of the chain\n(VOICEOVER):\nYou're not early.\nYou're the liquidity.\n\n{EDITING: Animated diagrams, clean and simple}\n```\n\n---",
+      "image": "output/scenes/scene_04_chart.png",
+      "audio": "output/audio/voiceover_segment_04.aiff",
+      "duration": 40,
+      "transition": "fade"
+    },
+    {
+      "title": "THE DEEP DIVE - CONCRETE EXAMPLES\n\n```\n[SCREEN]: Example #1 title card - \"The Bitcoin Top\"\n(VOICEOVER):\nLet me show you exactly how this played out.\n\n[SCREEN]: Bitcoin chart from May-July 2025\n(VOICEOVER):\nBitcoin rallied from $90k in early May to $125k by late July.\nEveryone said \"institutional adoption.\"\n\"Regulatory clarity is coming.\"\n\nSounds right. Makes sense.\n\nBut let's look at what actually happened in the eight weeks before the GENIUS Act.\n\n[SCREEN]: Show three data layers appearing one by one\n\nFirst: On-chain flows.\nIn early June, whale wallets started moving coins to exchanges.\nNot buying. Selling.\nExchange reserves spiked by 4.2% in three weeks.\n\nSecond: Derivatives positioning.\nFutures open interest hit all-time highs.\nFunding rates went positive\u2014aggressively positive.\nLeverage was maxed out.\n\nThird: Macro backdrop.\nThe dollar had just completed a 9-week rally.\nGlobal liquidity was contracting, not expanding.\nCredit spreads were widening.\n\n[SCREEN]: Overlay all three on the Bitcoin chart\n(VOICEOVER):\nAll of this happened before the GENIUS Act was even signed.\n\nThe distribution started in early June.\nThe leverage peaked mid-July.\nAnd the news on July 18th?\nThat's when retail celebrated the \"historic moment\"...\n\nWhile smart money was already out.\n\n[SCREEN]: Show the -36% drop\n(VOICEOVER):\nThe narrative said \"legitimacy.\"\nThe flows said \"top.\"\n\nThe news didn't move the market.\nIt marked the end of the move.\n\n---\n\n[SCREEN]: Example #2 title card - \"The Indian Banks Upgrade\"\n(VOICEOVER):\nHere's another one. Different market. Same pattern.\n\nAugust 15th, 2025.\nS&P Global upgrades seven Indian banks and three finance companies.\n\n[SCREEN]: Show headlines - \"Historic upgrade\" \"Economic optimism\"\n(VOICEOVER):\nHeadlines everywhere:\n\"Economic optimism.\"\n\"Banking sector strength.\"\n\"Credit upgrade boosts confidence.\"\n\nBankNifty, India's banking index, hits an all-time high on August 19th.\n\nAnd then it drops 5% in two weeks.\n\n[SCREEN]: BankNifty chart showing the top and decline\n(VOICEOVER):\nWhy?\n\nBecause the smart money already knew.\n\n[SCREEN]: Zoom out to show FII flows from early August\n(VOICEOVER):\nForeign institutional investors had been accumulating Indian financials\nthroughout late July and early August.\n\nBefore the upgrade was announced.\nBefore the headlines.\nBefore retail knew what was happening.\n\n[SCREEN]: Show FII selling data starting August 16th\n(VOICEOVER):\nAnd then, two days after the upgrade?\nFII started net selling.\n\nThe upgrade wasn't the signal to buy.\nIt was the signal that the trade was over.\n\nRetail bought the \"good news.\"\nInstitutions sold into the celebration.\n\n{EDITING: This section should feel like a pattern emerging\u2014same structure, different market}\n```\n\n---",
+      "image": "output/scenes/scene_05_chart.png",
+      "audio": "output/audio/voiceover_segment_05.aiff",
+      "duration": 150,
+      "transition": "fade"
+    },
+    {
+      "title": "WHY THIS MATTERS\n\n```\n[SCREEN]: Split screen - timeline comparison of both examples\n(VOICEOVER):\nSo why does this keep happening?\n\nBecause markets don't move on news.\nThey move on liquidity, flows, and positioning.\n\nThe news is just the story that gets told after the move already happened.\n\n[SCREEN]: Show \"News\" appearing at the END of price moves, not the start\n(VOICEOVER):\nWhen you see \"Historic regulation drives Bitcoin rally\"\u2014\nThe rally already happened.\n\nWhen you see \"Credit upgrade boosts banks\"\u2014\nThe buying already happened.\n\nYou're not reacting to the catalyst.\nYou're reacting to the aftermath.\n\nAnd the aftermath is where retail gets trapped.\n\n{EDITING: Visual showing news appearing AFTER the flow shifts}\n```\n\n---",
+      "image": "output/scenes/scene_06_chart.png",
+      "audio": "output/audio/voiceover_segment_06.aiff",
+      "duration": 60,
+      "transition": "fade"
+    },
+    {
+      "title": "THE SOLUTION\n\n```\n[SCREEN]: Three-layer framework diagram\n(VOICEOVER):\nSo what do you actually watch?\n\nNot headlines. Not narratives. Not analyst predictions.\n\nYou watch three things:\n\nOne: Liquidity conditions.\nIs global liquidity expanding or contracting?\nWhat are central banks actually doing with their balance sheets?\nWhat's happening in credit markets?\n\nTwo: Flows and positioning.\nWhere is institutional money actually moving?\nWhat does futures positioning look like?\nAre whales accumulating or distributing?\n\nThree: Market structure.\nWhat's volatility telling you?\nWhere is leverage concentrated?\nWhat does the options market reveal about positioning?\n\n[SCREEN]: Show clean, simple dashboard with these three categories\n(VOICEOVER):\nWhen all three align, the regime is clear.\n\nWhen they start diverging, a shift is coming.\n\nYou don't need to predict what the news will be.\nYou just need to observe what the market is doing before the news arrives.\n\n[SCREEN]: Overlay \"Observation > Prediction\"\n(VOICEOVER):\nObservation beats prediction.\nEvery single time.\n\n{EDITING: Keep this clean and actionable, not overwhelming}\n```\n\n---",
+      "image": "output/scenes/scene_07_diagram.png",
+      "audio": "output/audio/voiceover_segment_07.aiff",
+      "duration": 60,
+      "transition": "fade"
+    },
+    {
+      "title": "PREVIEW THE STACK\n\n```\n[SCREEN]: Quick 5-second glimpse of actual system/dashboard\n(VOICEOVER):\nNow, checking all of this manually every day is tedious.\n\nSo I built a system.\n\nIt monitors liquidity conditions across global markets.\nIt tracks institutional flows in real-time.\nIt watches positioning and market structure.\n\nAnd it tells me when regimes shift\u2014before the news shows up.\n\nThat's what I'll show you in a future video.\n\nBut for now, just understand this:\n\n{EDITING: Brief preview, don't oversell, just show it exists}\n```\n\n---",
+      "image": "output/scenes/scene_08_text.png",
+      "audio": "output/audio/voiceover_segment_08.aiff",
+      "duration": 30,
+      "transition": "fade"
+    },
+    {
+      "title": "THE CLOSING\n\n```\n[SCREEN]: Return to opening Bitcoin chart\n(VOICEOVER):\nMarkets don't move on news.\n\nThey move on liquidity, flows, and positioning.\n\nThe news just tells you what already happened.\n\nAnd if you're waiting for the news to trade...\n\n[SCREEN]: Fade to simple text: \"You're not trading the market. You're reacting to it.\"\n(VOICEOVER):\nYou're not trading the market.\nYou're reacting to it.\n\n{EDITING: Calm, matter-of-fact close. No hype.}\n```\n\n---",
+      "image": "output/scenes/scene_09_chart.png",
+      "audio": "output/audio/voiceover_segment_09.aiff",
+      "duration": 20,
+      "transition": "fade"
+    },
+    {
+      "title": "SOFT CTA\n\n```\n[SCREEN]: Simple end card with channel name\n(VOICEOVER):\nIf this reframed how you see markets, subscribe.\n\nNext week: Why price is gossip and fundamentals are the transcript.\n\n{EDITING: No excitement. Just a calm, direct close.}\n```\n\n---\n\n## PRODUCTION NOTES",
+      "image": "output/scenes/scene_10_text.png",
+      "audio": "output/audio/voiceover_segment_10.aiff",
+      "duration": 10,
+      "transition": "fade"
+    }
+  ]
+}
