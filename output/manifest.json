@@ -25,6 +25,6 @@
     "output/audio/voiceover_segment_09.aiff",
     "output/audio/voiceover_segment_10.aiff"
   ],
-  "video": null,
+  "video": "output/video/markets_360p_fast.mp4",
   "output_dir": "output"
 }

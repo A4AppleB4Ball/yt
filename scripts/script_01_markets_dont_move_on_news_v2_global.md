@@ -1,7 +1,7 @@
 # Script #01 v2: "Markets Don't Move on News (They Already Moved)"
 
 **Series:** Macro States
-**Target Length:** 7-8 minutes
+**Target Length:** 10-12 minutes
 **Goal:** Establish core doctrine #1 - Markets are regimes, not reactions
 **Audience:** Global (US, India, Europe, crypto investors)
 
@@ -322,31 +322,226 @@ Every single time.
 
 ---
 
-### [6:30-7:00] PREVIEW THE STACK
+### [6:30-9:30] DEEPER DIVE - WHAT TO ACTUALLY DO
 
 ```
-[SCREEN]: Quick 5-second glimpse of actual system/dashboard
+[SCREEN]: Title card "So What Do You Actually Do?"
 (VOICEOVER):
-Now, checking all of this manually every day is tedious.
+Alright. So you understand the pattern now.
 
-So I built a system.
+News doesn't move markets. It confirms moves that already happened.
 
-It monitors liquidity conditions across global markets.
-It tracks institutional flows in real-time.
-It watches positioning and market structure.
+But understanding the problem isn't the same as solving it.
 
-And it tells me when regimes shift—before the news shows up.
+So let me show you exactly what to watch, and how to think about this.
 
-That's what I'll show you in a future video.
+---
 
-But for now, just understand this:
+[SCREEN]: Category 1 - Liquidity Conditions
+(VOICEOVER):
+First: Liquidity conditions.
 
-{EDITING: Brief preview, don't oversell, just show it exists}
+This is the foundation. Everything else is built on this.
+
+And most people have no idea what this actually means.
+
+When I say "liquidity," I'm not talking about whether you can sell your shares.
+
+I'm talking about the actual flow of money through the global financial system.
+
+[SCREEN]: Show Fed balance sheet chart
+(VOICEOVER):
+Here's what matters:
+
+What are central banks doing with their balance sheets?
+Are they expanding or contracting?
+
+When the Fed expands its balance sheet, it injects liquidity into the system.
+When it contracts—quantitative tightening—it pulls liquidity out.
+
+[SCREEN]: Show correlation between Fed balance sheet and asset prices
+(VOICEOVER):
+And this matters more than almost anything else.
+
+Because when liquidity expands, asset prices rise.
+Not because of fundamentals.
+Not because of growth.
+Because there's more money chasing the same assets.
+
+When liquidity contracts, asset prices fall.
+Even if the news is good.
+Even if earnings are strong.
+
+The liquidity backdrop is the regime.
+
+[SCREEN]: Show global liquidity index or similar chart
+(VOICEOVER):
+You can track this with central bank balance sheets.
+You can watch credit spreads—when spreads widen, liquidity is tightening.
+You can watch the dollar—a strong dollar sucks liquidity out of global markets.
+
+And when you see liquidity conditions shift...
+That's when regimes change.
+
+Not when the news tells you they changed.
+When the liquidity actually shifts.
+
+---
+
+[SCREEN]: Category 2 - Flows and Positioning
+(VOICEOVER):
+Second: Flows and positioning.
+
+This is where you see what institutions are actually doing.
+Not what they're saying.
+What they're doing.
+
+[SCREEN]: Show institutional flow data examples
+(VOICEOVER):
+In Indian markets, this is FII and DII data.
+In crypto, it's on-chain flows—exchange reserves, whale movements.
+In US equities, it's 13F filings, ETF flows, dark pool activity.
+
+And the pattern is always the same:
+
+Smart money moves quietly.
+They accumulate before the story makes sense.
+They distribute when the narrative is perfect.
+
+[SCREEN]: Return to the Bitcoin example, highlight accumulation phase
+(VOICEOVER):
+Remember the Bitcoin example?
+
+The top happened when the GENIUS Act was signed.
+But the distribution started weeks earlier.
+
+You could see it in the flows.
+Coins moving to exchanges.
+Whales reducing their holdings.
+
+The positioning was already shifting.
+
+[SCREEN]: Show leverage metrics—futures OI, funding rates
+(VOICEOVER):
+And then there's leverage.
+
+When futures open interest is at all-time highs...
+When funding rates are maxed out...
+When everyone who's going to buy has already bought...
+
+That's not bullish.
+That's late.
+
+The regime is about to shift.
+
+And you can see it—if you're watching flows and positioning, not narratives.
+
+---
+
+[SCREEN]: Category 3 - Market Structure
+(VOICEOVER):
+Third: Market structure.
+
+This is about understanding the game that's being played.
+
+Markets aren't just prices moving up and down.
+They're systems with participants, incentives, and mechanics.
+
+[SCREEN]: Show volatility index (VIX or India VIX)
+(VOICEOVER):
+Volatility regimes matter.
+
+When volatility is low, leverage is cheap.
+People take more risk.
+Asset prices grind higher.
+
+When volatility spikes, leverage gets expensive.
+Risk gets repriced.
+Markets sell off—not because of bad news, but because the structure changed.
+
+[SCREEN]: Show options skew or put/call ratios
+(VOICEOVER):
+The options market reveals positioning.
+
+When put skew is high, institutions are hedging.
+They're worried.
+Even if the news sounds good.
+
+When call volume is exploding and retail is chasing upside...
+That's usually late.
+
+[SCREEN]: Show liquidity pockets on an order book or chart
+(VOICEOVER):
+And then there's liquidity structure.
+
+Markets don't move smoothly.
+They hunt clusters of orders—stop losses, breakout traders, overleveraged positions.
+
+If you understand where liquidity sits...
+You understand why markets move the way they do.
+
+Not because of news.
+Because of structure.
+
+{EDITING: This section should feel like practical education, not overwhelming}
 ```
 
 ---
 
-### [7:00-7:20] THE CLOSING
+### [9:30-10:30] BRINGING IT TOGETHER
+
+```
+[SCREEN]: Three-part framework diagram—Liquidity, Flows, Structure
+(VOICEOVER):
+So here's how you think about this.
+
+You don't predict what's going to happen.
+You observe what's already happening.
+
+[SCREEN]: Checkboxes appearing as you speak
+(VOICEOVER):
+Are liquidity conditions expanding or contracting?
+Are institutional flows accumulating or distributing?
+Is market structure showing early regime stress or late-stage euphoria?
+
+When all three align, the regime is clear.
+
+[SCREEN]: Show historical example with all three aligned
+(VOICEOVER):
+In May 2025, before the Bitcoin top:
+Liquidity was contracting—dollar rallying, credit spreads widening.
+Flows were distributing—whales moving to exchanges, institutions rotating out.
+Structure was stretched—leverage maxed, funding rates screaming.
+
+The regime was already shifting.
+
+The news on July 18th just made it official.
+
+[SCREEN]: Show another example—Indian banks
+(VOICEOVER):
+Same with the Indian bank upgrade in August.
+
+FII had already accumulated through July.
+By mid-August, flows reversed.
+The upgrade wasn't the start of the trade.
+It was the end.
+
+[SCREEN]: Simple text overlay—"Regime shifts happen in silence. News makes them loud."
+(VOICEOVER):
+Regime shifts happen in silence.
+News makes them loud.
+
+And if you're waiting for the loud part...
+You're not early.
+
+You're exit liquidity.
+
+{EDITING: This should feel like synthesis, not repetition}
+```
+
+---
+
+### [10:30-11:00] THE CLOSING
 
 ```
 [SCREEN]: Return to opening Bitcoin chart
@@ -369,7 +564,7 @@ You're reacting to it.
 
 ---
 
-### [7:20-7:30] SOFT CTA
+### [11:00-11:30] SOFT CTA
 
 ```
 [SCREEN]: Simple end card with channel name
